@@ -1,0 +1,27 @@
+{
+  "name": "ab-templates-js",
+  "version": "0.0.1",
+  "keywords": [
+    "ab, templates, web, development"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "ab-watcher": "0.0.*",
+    "uglify-js": "2.7.*"
+  },
+  "description": "JS extension for 'ab-templates'.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allblue-pl/npm-ab-templates-js.git"
+  },
+  "author": "Jakub Zolcik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allblue-pl/npm-ab-templates-js/issues"
+  },
+  "homepage": "https://github.com/allblue-pl/npm-ab-templates-js#readme"
+}
